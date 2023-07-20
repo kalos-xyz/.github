@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-# Issue: [TEST-01] Goroutine leaks in the signer process
-
 ## Impact
 
 When an Index pool is initiated with two tokens A: B and the weight rate = 1:2, then no user can buy token A with token B.  
